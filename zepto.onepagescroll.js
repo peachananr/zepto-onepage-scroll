@@ -302,7 +302,7 @@
       /*  Prepare Everything                       */
       /*-------------------------------------------*/
 
-  		el.addClass("onepage-wrapper")
+  		el.addClass("onepage-wrapper");
   		el.css("position","relative");
   		$.each(sections, function(i, item){
         $(this).addClass("ops-section").data("index", i + 1);
