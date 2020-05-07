@@ -5,21 +5,19 @@ Created by [Pete R.](http://www.thepetedesign.com), Founder of [Travelistly](htt
 
 License: [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/deed.en_US)
 
-[![Zepto One Page Scroll](http://www.thepetedesign.com/images/zepto_onepage_scroll_image.png "Zepto One Page Scroll")](http://www.thepetedesign.com/demos/zepto_onepage_scroll_demo.html)
-
 ## Requirement
 
 - [Zepto JS (1.1.3 or later)](http://zeptojs.com/)
 - [Zepto JS FX Module](https://github.com/madrobby/zepto/blob/master/src/fx.js#files)
 
 ## Demo
-[View demo](http://www.thepetedesign.com/demos/zepto_onepage_scroll_demo.html)
+[View demo](http://peachananr.github.io/zepto-onepage-scroll/demo/zepto_onepage_scroll_demo.html)
 
 ##Looking for a Pure JS version?
-[Pure JS Version](http://www.thepetedesign.com/demos/purejs_onepage_scroll_demo.html)
+[Pure JS Version](http://peachananr.github.io/purejs-onepage-scroll/demo/purejs_onepage_scroll_demo.html)
 
 ##Looking for a jQuery version?
-[jQuery Version](http://www.thepetedesign.com/demos/onepage_scroll_demo.html)
+[jQuery Version](http://peachananr.github.io/onepage-scroll/Demo/demo.html)
 
 
 ## Compatibility
