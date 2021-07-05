@@ -44,7 +44,6 @@
   			status = "off",
   			topPos = 0,
   			lastAnimation = 0,
-  			lastAnimation = 0,
   			quietPeriod = 300,
   			paginationList = "",
   			body = $("body");
